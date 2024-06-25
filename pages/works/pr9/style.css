@@ -1,0 +1,69 @@
+.line li{
+	display: inline-block;
+	padding: 20px;
+	 background-color: pink;
+	 margin-right: 20px;
+}
+.links a{
+	display: block;
+	text-decoration: none;
+	width: 160px;
+	border: 1px solid blue;
+	background-color: blue;
+	color: whitesmoke;
+	padding: 5px;
+	margin: 5px;
+}
+.blocks{
+	margin: 30px;
+}
+.blocks div{
+	display: inline;
+	background: red;
+	width: 40px;
+	padding: 20px;
+}
+.blocks .non{
+	display: none;
+}
+.links-markers{
+background-color: black;
+width: 150px;
+}
+.links-markers a{
+	display: list-item;
+	margin: 10px;
+	color: white;
+}
+.image{
+	border:2px dashed red;
+	width: 120px;
+	height: 120px;
+	background-image: url(media/weather-sun.jpg);
+}
+.post1 .image{
+	float: left;
+	margin-right: 10px;
+}
+.post2 .image{
+	float: right;
+}
+.post1,.post2{
+	background: red;
+	color: white;
+	overflow: hidden;
+}
+.image{
+	width: 200px;
+}
+.day1{
+	float: left;
+	margin-right: 5px;
+}
+.day2{
+	float: right;
+	margin-right: 5px;
+}
+.day3{
+	float: right;
+}
