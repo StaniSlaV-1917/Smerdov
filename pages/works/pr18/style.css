@@ -1,0 +1,38 @@
+.polosa{
+    width: 800px;
+    height: 5px;
+    background-color: black;
+}
+.slovo{
+    font-size: 30px;
+}
+body{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    flex-wrap:wrap ;
+}
+.samolet{
+    width: 300px;
+    height: 300px;
+margin: 10px;
+}
+.mash{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+.tank{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+.txt{
+    text-align: start;
+}
+.ser{
+    color: gray;
+}
+.nav-item{
+    color: gray;
+}

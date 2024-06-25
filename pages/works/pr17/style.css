@@ -1,0 +1,96 @@
+.menu{
+    display: flex;
+}
+body{
+background-color: whitesmoke;
+}
+header{
+    background: linear-gradient( #231cdfcc 15.12%,
+    rgba(45, 54, 179, 0) 110.53%);
+    justify-content: space-between;
+    height: 160px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.odin{
+margin-top: 20px;
+margin-left:30px;
+width: 25px;
+height: 25px;
+}
+.dva{
+
+width: 40px;
+height: 40px;
+
+}
+.tri{
+ width: 60px;
+ height: 60px;
+}
+.opp{
+    width: 60px;
+}
+h1{
+    color: white;
+}
+a{
+    background-color:rgb(194, 220, 243);
+    color: dodgerblue;
+    border: 0px;
+    cursor: pointer;
+    margin-right: 5px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+
+}
+.wraper{
+    width: 700px;
+
+}
+section{
+    display: flex;
+    width: 700px;
+    height: 100px;
+    margin: 15px;
+    margin-top: 40px;
+    padding: 10px;
+}
+article{
+    display: flex;
+    background-color:white ;
+    width: 300px;
+    height: 100px;
+    margin: 5px;
+    margin-top: 40px;
+    padding: 10px;
+    justify-content: 100%;
+}
+.like{
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-left: 5px;
+}
+p{
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+.ehe{
+    margin-top: 60px;
+    width: 30px;
+    height: 30px;
+    margin-left: -25px;
+    
+}
+h4{
+    margin-left: 2px;
+    margin-top: 55px;
+}

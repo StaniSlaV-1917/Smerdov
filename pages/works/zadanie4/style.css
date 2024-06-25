@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+}
+.mun{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 500px;
+    gap: 10px;
+    justify-content: center;
+    margin: 0 auto;
+}
+.aa{
+    background-color: aqua;
+    width: 220px;
+    height: 350px;
+}
+article img{
+    width: 220px;
+    height: 220px;
+}
+.ab{
+    background-color: rgb(59, 6, 129);
+    width: 220px;
+    height: 350px;
+}
+.ac{
+    background-color: rgb(20, 224, 224);
+    width: 220px;
+    height: 350px;
+}
+.ad{
+    background-color: rgb(52, 167, 167);
+    width: 220px;
+    height: 350px;
+}
+.ae{
+    background-color: rgb(212, 0, 255);
+    width: 220px;
+    height: 350px;
+}
+.af{
+    background-color: rgb(47, 0, 255);
+    width: 220px;
+    height: 350px;
+}
+.ag{
+    background-color: rgb(25, 0, 255);
+    width: 220px;
+    height: 350px;
+}
+.ah{
+    background-color: rgb(0, 255, 85);
+    width: 220px;
+    height: 350px;
+}
+.ai{
+    background-color: rgb(238, 255, 0);
+    width: 220px;
+    height: 350px;
+}
+p{
+    color: red;
+}
+button{
+    width: 100px;
+    border: 1px solid #000;
+    background: rgb(255, 0, 0);
+    border-radius: 5px;
+}
